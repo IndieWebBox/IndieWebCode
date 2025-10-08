@@ -1,10 +1,7 @@
 # Indie Web Box: Taking Back the Web
 
-## What is the Dead Internet Theory?
-The Dead Internet Theory suggests that the internet is no longer the vibrant, chaotic place it once was. It posits that most of what we see online today is driven by algorithms, commercial interests, and repetitive content rather than by authentic human creativity. In essence, the theory claims that the spirit of the early internet, which was full of raw experimentation and personal expression, has been replaced by a monotonous landscape dominated by a few major players.
 
-## Indie Web and Hacker Culture: Reviving the Spirit of Creation
-The Indie Web movement and hacker culture strive to bring back the freedom and creativity that the internet was originally known for. The idea is to build a web that is personal, unique, and expressive—a playground for self-expression where rules are rewritten and experimentation is encouraged. Indie Web Box is rooted in this philosophy, drawing from the early internet’s hacker ethos to create a space for unconventional, rule-breaking designs that prioritize artistic freedom over mass appeal.
+The Indie Web movement strives to bring back the freedom and creativity that the internet was originally known for. The idea is to build a web that is personal, unique, and expressive—a playground for self-expression where rules are rewritten and experimentation is encouraged. Indie Web Box is rooted in this philosophy, drawing from the early internet’s hacker ethos to create a space for unconventional, rule-breaking designs that prioritize artistic freedom over mass appeal.
 
 ## Taking Control Back
 Web development has increasingly become centered around building fast, minimalistic websites that cater to business goals: optimizing click rates, fitting into SEO guidelines, and following UX best practices to the letter. While these sites are practical, they often feel soulless and lack any sense of individuality. **Indie Web Box** is about breaking out of this mold and putting control back into the hands of developers and designers—letting them create for the sake of creation itself. The web should be more than a collection of bland, standardized pages; it should be a vibrant, interactive canvas for storytelling and imagination.
